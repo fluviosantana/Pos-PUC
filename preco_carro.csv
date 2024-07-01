@@ -1,4 +1,4 @@
-v.id,on road old,on road now,years,km,rating,condition,economy,top speed,hp,torque,current_price
+v.id,on_road_old,on_road_now,years,km,rating,condition,economy,top_speed,hp,torque,current_price
 1,535651,798186,3,78945,1,2,14,177,73,123,351318
 2,591911,861056,6,117220,5,9,9,148,74,95,285001.5
 3,686990,770762,2,132538,2,8,15,181,53,97,215386
